@@ -7,8 +7,8 @@ const Cart = () => {
   const { cart, removeItem, clearCart, cartTotalPrice } = useContext(CartContext);
 
   const handleSendOrder = () => {
-    const mailTo = 'gustavo.a.rojas@gmail.com'; // Reemplaza con tu email
-    const subject = 'Nuevo Pedido desde web Pekis';
+    const mailTo = 'eugenia1310@hotmail.com'; // Reemplaza con tu email
+    const subject = 'Nuevo Pedido de DecoBazar';
     let body = 'Detalle del pedido:\n\n';
     
     cart.forEach(item => {
