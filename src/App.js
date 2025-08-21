@@ -1,24 +1,27 @@
-import logo from './logo.svg';
-import './App.css';
+import React from 'react';
+import { BrowserRouter, Routes, Route, Navigate } from 'react-router-dom';
+import { CartProvider } from './context/CartContext';
+import NavBar from './components/NavBar';
+import ItemListContainer from './components/ItemListContainer';
+import Cart from './components/Cart';
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <CartProvider>
+      <BrowserRouter>
+        <NavBar />
+        <Routes>
+          {/* Redirige la ruta raíz a la sección de regalos por defecto */}
+          <Route path="/" element={<Navigate to="/category/regalos" />} />
+          
+          {/* Ruta para mostrar productos por categoría */}
+          <Route path="/category/:categoryId" element={<ItemListContainer />} />
+          
+          {/* Ruta para ver el carrito */}
+          <Route path="/cart" element={<Cart />} />
+        </Routes>
+      </BrowserRouter>
+    </CartProvider>
   );
 }
 

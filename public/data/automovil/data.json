@@ -1,0 +1,30 @@
+[
+  {
+    "id": "automovil01",
+    "nombre": "Aspiradora para auto",
+    "descripcion": "Aspiradora portátil para limpieza de interiores de automóvil.",
+    "precio": 1500,
+    "img": "/data/automovil/automovil01.jpg"
+  },
+  {
+    "id": "automovil02",
+    "nombre": "Cera líquida",
+    "descripcion": "Cera líquida para brillo y protección a la pintura del auto.",
+    "precio": 350,
+    "img": "/data/automovil/automovil02.jpg"
+  },
+  {
+    "id": "automovil03",
+    "nombre": "Kit de limpieza de vidrios",
+    "descripcion": "Kit completo para limpiar y desengrasar vidrios de automóvil.",
+    "precio": 220,
+    "img": "/data/automovil/automovil03.jpg"
+  },
+  {
+    "id": "automovil04",
+    "nombre": "pepe 4",
+    "descripcion": "son unas lindas alfombras pero berretas.",
+    "precio": 12000,
+    "img": "/data/automovil/automovil04.jpg"
+  }
+]

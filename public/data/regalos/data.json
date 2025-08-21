@@ -1,0 +1,37 @@
+[
+  {
+    "id": "Regalos1",
+    "nombre": "Taza Mágica Personalizada",
+    "descripcion": "Una taza que revela una imagen oculta cuando se vierte líquido caliente. Ideal para sorpresas.",
+    "precio": 15.50,
+    "img": "/data/regalos/Regalos1.jpg"
+  },
+  {
+    "id": "Regalos2",
+    "nombre": "Set de Velas Aromáticas",
+    "descripcion": "Relájate con este set de 3 velas con aromas de lavanda, vainilla y sándalo.",
+    "precio": 22.00,
+    "img": "/data/regalos/Regalos2.jpg"
+  },
+  {
+    "id": "Regalos3",
+    "nombre": "Planta de Escritorio",
+    "descripcion": "Pequeña suculenta en maceta de cerámica para decorar cualquier espacio.",
+    "precio": 12.75,
+    "img": "/data/regalos/Regalos3.jpg"
+  },
+  {
+    "id": "Regalos4",
+    "nombre": "Libreta de Cuero Ecológico",
+    "descripcion": "Elegante libreta para notas, con separador y cierre elástico.",
+    "precio": 18.99,
+    "img": "/data/regalos/Regalos4.jpg"
+  },
+  {
+    "id": "Regalos5",
+    "nombre": "Kit de siembra de Girasoles",
+    "descripcion": "Kit completo para cultivar tus propios girasoles en casa.",
+    "precio": 20.00,
+    "img": "/data/regalos/Regalos5.jpg"
+  }
+]

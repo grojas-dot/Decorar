@@ -1,0 +1,37 @@
+[
+  {
+    "id": "herramienta01",
+    "nombre": "martillo Mágico",
+    "descripcion": "Un martillo que revela una imagen oculta cuando se vierte líquido caliente. Ideal para sorpresas.",
+    "precio": 15.50,
+    "img": "/data/herramientas/herramienta01.jpg"
+  },
+  {
+    "id": "herramienta02",
+    "nombre": "destornillador pp",
+    "descripcion": "Relájate con este set de 3 velas con aromas de lavanda, vainilla y sándalo.",
+    "precio": 22.00,
+    "img": "/data/herramientas/herramienta02.jpg"
+  },
+  {
+    "id": "herramienta03",
+    "nombre": "caladora de Escritorio",
+    "descripcion": "Pequeña suculenta en maceta de cerámica para decorar cualquier espacio.",
+    "precio": 12.75,
+    "img": "/data/herramientas/herramienta03.jpg"
+  },
+  {
+    "id": "herramienta04",
+    "nombre": "taladro grande",
+    "descripcion": "Elegante libreta para notas, con separador y cierre elástico.",
+    "precio": 18.99,
+    "img": "/data/herramientas/herramienta04.jpg"
+  },
+  {
+    "id": "herramienta05",
+    "nombre": "amoladora de siembra",
+    "descripcion": "Kit completo para cultivar tus propios girasoles en casa.",
+    "precio": 20.00,
+    "img": "/data/herramientas/herramienta05.jpg"
+  }
+]

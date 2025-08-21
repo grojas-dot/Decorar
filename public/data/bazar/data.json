@@ -1,0 +1,37 @@
+[
+  {
+    "id": "bazar01.jpg",
+    "nombre": "Taza Mágica Personalizada",
+    "descripcion": "Una taza que revela una imagen oculta cuando se vierte líquido caliente. Ideal para sorpresas.",
+    "precio": 15.50,
+    "img": "/data/bazar/bazar01.jpg"
+  },
+  {
+    "id": "Bazar02",
+    "nombre": "Set de Velas Aromáticas",
+    "descripcion": "Relájate con este set de 3 velas con aromas de lavanda, vainilla y sándalo.",
+    "precio": 22.00,
+    "img": "/data/bazar/bazar02.jpg"
+  },
+  {
+    "id": "Bazar03",
+    "nombre": "Planta de Escritorio",
+    "descripcion": "Pequeña suculenta en maceta de cerámica para decorar cualquier espacio.",
+    "precio": 12.75,
+    "img": "/data/bazar/bazar03.jpg"
+  },
+  {
+    "id": "Bazar04",
+    "nombre": "Libreta de Cuero Ecológico",
+    "descripcion": "Elegante libreta para notas, con separador y cierre elástico.",
+    "precio": 18.99,
+    "img": "/data/bazar/bazar04.jpg"
+  },
+  {
+    "id": "Bazar05",
+    "nombre": "Kit de siembra de Girasoles",
+    "descripcion": "Kit completo para cultivar tus propios girasoles en casa.",
+    "precio": 20.00,
+    "img": "/data/bazar/bazar05.jpg"
+  }
+]
